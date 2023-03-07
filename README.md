@@ -1,6 +1,6 @@
 # ARCore Geospatial Codelab project
 
-This repository contains the template used for the [ARCore Geospatial API Codelab](https://developers.google.com/ar/develop/geospatial/java/codelab#0).
+This repository contains the code for ARCore Geospatial project using the template [ARCore Geospatial API Codelab](https://developers.google.com/ar/develop/geospatial/java/codelab#0).
 
 This repository contains the following branches:
 
