@@ -52,10 +52,10 @@
 
     <meta-data
         android:name="com.google.android.ar.API_KEY"
-        android:value="AIzaSyBX67jUDGZdAWYquvqt0SPk2VTWV4_dI_c"/>
+        android:value="에이피아이 키"/>
 
     <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyBX67jUDGZdAWYquvqt0SPk2VTWV4_dI_c" />
+        android:value="에이피아이 키" />
   </application>
 </manifest>
